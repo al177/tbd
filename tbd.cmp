@@ -1,0 +1,67 @@
+Cmp-Mod V01 Genere par PcbNew le 3/11/2015 2:34:56 PM
+
+BeginCmp
+TimeStamp = 54FF119C
+Path = /54FE1B3E
+Reference = J1;
+ValeurCmp = USBPCB;
+IdModule  = tbd:tbd_USB_A_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FF3D33
+Path = /54FF1C3E
+Reference = P1;
+ValeurCmp = CONN_02X04;
+IdModule  = tbd:hdr-boardedge-4x2;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FF5AF4
+Path = /54FDF6EC
+Reference = U1;
+ValeurCmp = MKL27ZxxxVFM4;
+IdModule  = tbd:QFN-32-1EP_5x5mm_Pitch0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FF43FA
+Path = /54FF2D4A
+Reference = LED1;
+ValeurCmp = LED0603;
+IdModule  = tbd:SparkFun-LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FF3D29
+Path = /54FE2A45
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = tbd:SparkFun-0402-CAP;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FF3D24
+Path = /54FE2758
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = tbd:SparkFun-0402-CAP;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FF3D43
+Path = /54FE2512
+Reference = R2;
+ValeurCmp = 33R;
+IdModule  = tbd:SparkFun-0402-RES;
+EndCmp
+
+BeginCmp
+TimeStamp = 54FF3D3E
+Path = /54FE2573
+Reference = R1;
+ValeurCmp = 33R;
+IdModule  = tbd:SparkFun-0402-RES;
+EndCmp
+
+EndListe
