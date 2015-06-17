@@ -1,59 +1,91 @@
-Cmp-Mod V01 Created by Cvpcb (2014-10-18 BZR 5203)-product   date = 4/15/2015 11:05:36 AM
+Cmp-Mod V01 Genere par PcbNew le 6/17/2015 11:09:00 AM
 
 BeginCmp
-TimeStamp = /54FE2758;
-Reference = C1;
-ValeurCmp = 100nF;
-IdModule  = tbd:SparkFun-0402-CAP;
-EndCmp
-
-BeginCmp
-TimeStamp = /54FE2A45;
-Reference = C2;
-ValeurCmp = 100nF;
-IdModule  = tbd:SparkFun-0402-CAP;
-EndCmp
-
-BeginCmp
-TimeStamp = /54FE1B3E;
+TimeStamp = 552EBEE2
+Path = /54FE1B3E
 Reference = J1;
 ValeurCmp = USBPCB;
 IdModule  = tbd:tbd_USB_A_PCB;
 EndCmp
 
 BeginCmp
-TimeStamp = /54FF2D4A;
-Reference = LED1;
-ValeurCmp = LED0603;
-IdModule  = tbd:SparkFun-LED-0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /54FF1C3E;
+TimeStamp = 55809D5E
+Path = /557F21D4
 Reference = P1;
 ValeurCmp = CONN_02X04;
-IdModule  = tbd:hdr-boardedge-4x2;
+IdModule  = tbd:HEADER_2x4_SMT_RA;
 EndCmp
 
 BeginCmp
-TimeStamp = /54FE2573;
+TimeStamp = 55804E38
+Path = /552EB608
 Reference = R1;
-ValeurCmp = 33R;
-IdModule  = tbd:SparkFun-0402-RES;
+ValeurCmp = 100R;
+IdModule  = Resistors_SMD:R_0603;
 EndCmp
 
 BeginCmp
-TimeStamp = /54FE2512;
-Reference = R2;
-ValeurCmp = 33R;
-IdModule  = tbd:SparkFun-0402-RES;
+TimeStamp = 55805F9C
+Path = /557F2C4F
+Reference = SWD_CLK;
+ValeurCmp = SWD_CLK;
+IdModule  = Measurement_Points:Measurement_Point_Round-SMD-Pad_Small;
 EndCmp
 
 BeginCmp
-TimeStamp = /54FDF6EC;
+TimeStamp = 55805308
+Path = /55803322
+Reference = J2;
+ValeurCmp = USB-MICROB-5PIN;
+IdModule  = tbd:SparkFun-USB-MICROB;
+EndCmp
+
+BeginCmp
+TimeStamp = 55806A18
+Path = /54FF2D4A
+Reference = LED1;
+ValeurCmp = LED0603;
+IdModule  = tbd:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55805FA4
+Path = /54FDF6EC
 Reference = U1;
 ValeurCmp = MKL27ZxxxVFM4;
 IdModule  = tbd:QFN-32-1EP_5x5mm_Pitch0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 55804E2D
+Path = /54FE2A45
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = tbd:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55804E22
+Path = /54FE2758
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = tbd:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55804E4E
+Path = /54FE2512
+Reference = R3;
+ValeurCmp = 33R;
+IdModule  = tbd:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 55804E43
+Path = /54FE2573
+Reference = R2;
+ValeurCmp = 33R;
+IdModule  = tbd:R_0603;
 EndCmp
 
 EndListe
