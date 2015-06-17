@@ -3,7 +3,7 @@ Tiny Bit Dingus
 
 A really tiny, really simple ARM USB thing.  More project details at hackaday.io: http://hackaday.io/project/4826-tiny-bit-dingus
 
-Currently v0.1 hardware is assembled and functional using the gerbers in ./oshpark and ./oshstencils .  Future versions will be smaller and have fewer debug conveniences.
+v0.1 manufacturing files are in the v0.1 branch
 
 Thanks to Sparkfun for their component library.
 

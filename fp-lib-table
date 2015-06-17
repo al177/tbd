@@ -1,4 +1,3 @@
 (fp_lib_table
-  (lib (name tbd)(type KiCad)(uri c:\dl\tbd.pretty)(options "")(descr ""))
-  (lib (name Sparkfun)(type Legacy)(uri c:\dl\tbd\sparkfun.mod)(options "")(descr Sparkfun))
+  (lib (name tbd)(type KiCad)(uri $KIPRJMOD)(options "")(descr ""))
 )

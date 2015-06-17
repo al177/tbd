@@ -1,7 +1,0 @@
-"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
-1;"P1";"tbd:hdr-boardedge-4x2";1;"CONN_02X04";;;
-2;"U1";"tbd:QFN-32-1EP_5x5mm_Pitch0.5mm";1;"MKL27ZxxxVFM4";;;
-3;"LED1";"tbd:SparkFun-LED-0603";1;"LED0603";;;
-4;"C1,C2";"tbd:SparkFun-0402-CAP";2;"100nF";;;
-5;"R1,R2";"tbd:SparkFun-0402-RES";2;"33R";;;
-6;"J1";"tbd:tbd_USB_A_PCB";1;"USBPCB";;;

@@ -1,4 +1,4 @@
-update=3/10/2015 11:21:17 AM
+update=4/15/2015 12:45:27 PM
 version=1
 last_client=kicad
 [cvpcb]
@@ -10,7 +10,7 @@ EquName1=devcms
 version=1
 [eeschema]
 version=1
-LibDir=C:/dl/tbd
+LibDir=../tbd_stuff
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -41,10 +41,11 @@ LibName26=cypress
 LibName27=siliconi
 LibName28=opto
 LibName29=atmel
-LibName30=SparkFun
-LibName31=contrib
-LibName32=valves
-LibName33=mkl27zxxxvfm4
+LibName30=contrib
+LibName31=valves
+LibName32=C:/dl/mbed/tbd_stuff/mkl27zxxxvfm4
+LibName33=tbd
+LibName34=SparkFun
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -52,8 +53,8 @@ LastNetListRead=
 UseCmpFile=1
 PadDrill=0
 PadDrillOvalY=0
-PadSizeH=1.725
-PadSizeV=1.725
+PadSizeH=3.81
+PadSizeV=1.524
 PcbTextSizeV=1.5
 PcbTextSizeH=1.5
 PcbTextThickness=0.3
